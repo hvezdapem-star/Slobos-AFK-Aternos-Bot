@@ -31,10 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
-      ]
+        "/register sigmasigmaboy sigmasigmaboy",
+        "/login sigmasigmaboy",
+        ""
     },
     "chat-log": true,
     "auto-reconnect": true,
